@@ -4,7 +4,7 @@
 
 
 ## 📚Informação👨‍🏫👩‍🎓
-O desafio é um teste prático de como devemos analisar os dados gerados e melhorar o desempenho da empresa. A empresa em questão é um conjunto de lojas localizadas dentro de shoppings.
+O desafio consiste em um teste prático sobre como devemos analisar os dados gerados e melhorar o desempenho da empresa. A empresa em questão é um conjunto de lojas localizadas em diversos shoppings.
 
 
 ## Teste Prático
